@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653306170 source:e:\graphics design\beizer curve\beizer_curve.cpp
+	<math.h>
+	<stdio.h>
+	<graphics.h>
+
+1266076214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

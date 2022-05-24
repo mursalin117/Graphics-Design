@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653300886 source:e:\graphics design\mid point circle drawing\circle_drawing.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+
+1266076214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
